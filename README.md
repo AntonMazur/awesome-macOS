@@ -341,6 +341,7 @@
 - [Sleepless](https://github.com/Aboudjem/Sleepless) - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless) ![Freeware][Freeware Icon]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon]
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
+- [SmoothWheel](https://smoothwheel.vercel.app/) - Smooth mouse-wheel scrolling with adjustable speed and per-app exclusions. [![Open-Source Software][OSS Icon]](https://github.com/AntonMazur/SmoothWheel) ![Freeware][Freeware Icon]
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
 - [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox)
